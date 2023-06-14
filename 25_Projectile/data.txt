@@ -1,0 +1,39 @@
+Projectile 1:
+Not created
+
+Projectile 2:
+Velocity: 40.0
+Angle: 80.0
+Initial X: 0.0
+Initial Y: 100.0
+
+Projectile 3:
+Not created
+
+Projectile 4:
+Not created
+
+Projectile 5:
+Velocity: 90.0
+Angle: 0.0
+Initial X: 50.0
+Initial Y: 30.0
+
+Projectile 6:
+Not created
+
+Projectile 7:
+Not created
+
+Projectile 8:
+Not created
+
+Projectile 9:
+Velocity: 100.0
+Angle: 0.0
+Initial X: 10.0
+Initial Y: 400.0
+
+Projectile 10:
+Not created
+
